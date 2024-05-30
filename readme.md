@@ -18,9 +18,9 @@ Registros de canciones (models/queries.js)
 Registros de canciones (controllers/controller.js)
 ![Registros_models](assets/img/registro_controllers.png)
 
-Editar registro
+Editar registro (models/queries.js)
 ![editar_models](assets/img/editar_models.png)
-Editar registro
+Editar registro (controllers/controller.js)
 ![editar_controllers](assets/img/editar_controllers.png)
 
 Eliminar registro (models/queries.js)
